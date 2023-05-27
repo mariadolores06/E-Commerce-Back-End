@@ -4,7 +4,7 @@
 E-commerce back end serves as the back-end for an e-commerce website.
 The back end user is able to view all categories, products, and tags.
 They may also create new categories, products, tags, and delete any existing categories, products, or tags. 
-If they know the category, product, or tag ID, they may rereieve information for that specific one.
+If they know the category, product, or tag ID, they may retrieve information for that specific one.
 
 ## Installation
 
